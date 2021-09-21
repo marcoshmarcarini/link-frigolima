@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-color: #980000;
+    background-repeat:no-repeat;
+    background-size:  100%;
+    color: #ffffff;
+}
+.container{
+    max-width: 350px;
+    max-height: 900px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.area-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;   
+}
+
+.logo-frigolima{
+    border-radius: 15px;
+    background-color: #ffffff;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #38b000;
+    font-weight: 500;
+}
+.area-links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.area-links-sociais{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.area-lojas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-arvore{
+    background-color: #ffffff;
+    font-size: 15px;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 1px 1px rgb(189, 189, 189);
+}
+.link-arvore:hover{
+    background-color: #70e000;
+    transition: all 400ms;
+    font-weight: 600;
+    color: #ffffff;
+    box-shadow: 1px 1px 1px #4bc504bd;
+}
+
+.link-arvore{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.icone-social{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rodape{
+    height: 50px;
+    margin: auto;
+}
+
+.txt-rodape{
+    padding: 15px;
+    text-align: center;
+}
+
+/*.icone-sacola{}*/
