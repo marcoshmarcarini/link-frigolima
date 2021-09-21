@@ -14,6 +14,23 @@ function Home(){
                 <a href="https://forms.gle/cZCiLpQe5iCVgM8F9" className="link-arvore">Faça seu Cartão Frigolima</a>
                 <a href="http://acaps.org.br/super_rh" className="link-arvore">Trabalhe Conosco</a>
             </div>
+            <div className="textinho">
+                    <p className="txt-contato">Entre em contato com nossas lojas.</p>  
+            </div>
+            <div className="area-lojas">
+                <div className="contatos">
+                    <Image src="/img/phone-call.png" width={15} height={15} className="tel" />
+                    <a href="tel:+552835221058" className="link-arvore">Novo Parque</a>
+                </div>
+                <div className="contatos">
+                    <Image src="/img/phone-call.png" width={15} height={15} className="tel" />
+                    <a href="tel:+552835281047" className="link-arvore">Vargem Alta</a>
+                </div>
+                <div className="contatos">
+                    <Image src="/img/phone-call.png" width={15} height={15} className="tel" />
+                    <a href="tel:+552835291131" className="link-arvore">Itaipava</a>
+                </div>
+            </div>
             <div className="area-links-sociais">
                 <div className="icone-social">
                     <a href="https://www.facebook.com/frigolimasupermercados"><Image src="/img/facebook.png" width={30} height={30} /></a>
@@ -24,11 +41,6 @@ function Home(){
                 <div className="icone-social">
                     <a href="https://api.whatsapp.com/send?phone=5528999910448&text=Ol%C3%A1!%20Gostaria%20de%20realizar%20uma%20compra%20online."><Image src="/img/whatsapp.png" width={30} height={30}/></a>
                 </div>
-            </div>
-            <div className="area-lojas">
-                <a href="tel:+552835221058" className="link-arvore">Novo Parque</a>
-                <a href="tel:+552835281047" className="link-arvore">Vargem Alta</a>
-                <a href="tel:+552835291131" className="link-arvore">Itaipava</a>
             </div>
         </div>
         </>

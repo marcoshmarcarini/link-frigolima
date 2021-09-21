@@ -15,7 +15,6 @@ body{
 }
 .container{
     max-width: 350px;
-    max-height: 900px;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -40,7 +39,6 @@ body{
 .logo-frigolima{
     border-radius: 15px;
     background-color: #ffffff;
-    
 }
 
 a{
@@ -60,6 +58,7 @@ a{
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .area-lojas{
@@ -67,6 +66,7 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-bottom: 20px;
 }
 
 .link-arvore{
@@ -88,6 +88,35 @@ a{
     font-weight: 600;
     color: #ffffff;
     box-shadow: 1px 1px 1px #4bc504bd;
+}
+/*
+.linha-horizontal{
+    color: #38b000;
+    width: 100px;
+    margin: auto;
+}
+*/
+.textinho{
+
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #38b000;
+}
+
+.txt-contato{
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.contatos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .link-arvore{
