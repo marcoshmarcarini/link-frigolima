@@ -9,7 +9,7 @@ function Cabecalho () {
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <meta name="author" content="Marcos Henrique Marcarini Junior" />
                 <title>Frigolima Supermercados</title>
-                <Script data-ad-client="ca-pub-4774450614178988" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"/>
+                <script data-ad-client="ca-pub-4774450614178988" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <Script async src="https://www.googletagmanager.com/gtag/js?id=G-H0JSLG4FLH"/>
                 <Script src="custom-scripts.js"/>
             </Head>
