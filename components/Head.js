@@ -13,6 +13,19 @@ function Cabecalho () {
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3480588623219549" crossorigin="anonymous"></script>
                 <Script async src="https://www.googletagmanager.com/gtag/js?id=G-H0JSLG4FLH"/>
                 <Script src="custom-scripts.js"/>
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3480588623219549" crossorigin="anonymous"></script>
+
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-3480588623219549"
+                    data-ad-slot="4193121876"
+                    data-ad-format="auto"
+                    data-full-width-responsive="true">
+                </ins>
+                <script>
+                       (adsbygoogle = window.adsbygoogle || []).push({});
+                
+                </script>
             </Head>
         </div>
     )
