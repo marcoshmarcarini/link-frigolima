@@ -5,7 +5,7 @@ function Home(){
         <>
         <div className="container">
             <div className="area-logo">
-            <Image src="/img/logo.png" width={100} height={100} className="logo-frigolima"/>
+                <Image src="/img/logo.png" width={100} height={100} className="logo-frigolima"/>
             </div>
             <div className="area-links">
                 <a href="https://www.dropbox.com/s/4s8lsl6ypnx1uvi/Regulamento_sacolas_reutilizaveis__supermercado_frigolima.docx?dl=0" className="link-arvore">Regulamento Sacolas Reutilizáveis</a>
@@ -13,6 +13,7 @@ function Home(){
                 <a href="https://chat.whatsapp.com/L799fbwbNnh6HFjrCdEvYK?fbclid=IwAR0ZBu-KfOHA8EzTdR8J1fnDYB65_KII2vSaaV3IcWWMATwcGAxjun5Q5U4" className="link-arvore">Grupo do WhatsApp</a>
                 <a href="https://forms.gle/cZCiLpQe5iCVgM8F9" className="link-arvore">Faça seu Cartão Frigolima</a>
                 <a href="http://acaps.org.br/super_rh" className="link-arvore">Trabalhe Conosco</a>
+                <a href="/regulamento" className="link-arvore">Regulamento Natal Premiado</a>
             </div>
             <div className="textinho">
                     <p className="txt-contato">Entre em contato com nossas lojas.</p>  

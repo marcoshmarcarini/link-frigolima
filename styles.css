@@ -140,3 +140,63 @@ a{
 }
 
 /*.icone-sacola{}*/
+
+
+
+/***********************************************************
+////////////////////////////////////////////////////////////
+************************************************************
+============================================================
+****************** Página do Regulamento *******************
+============================================================
+************************************************************
+////////////////////////////////////////////////////////////
+************************************************************/
+/* Classes Utilizadas
+.regulamento-area{}
+.regulamento-titulo{}
+.regulamento-sub-titulo{}
+.regulamento-sub-titulo h3{}
+.regulamento-sub-titulo h4{}
+.regulamento-txt{}
+*/
+
+.regulamento-area{
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: #fff;
+    color:#636363; 
+    box-shadow: 1px 1px 1px rgb(189, 189, 189);
+}
+.regulamento-titulo{
+    text-align: center;
+    font-weight: 800;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.regulamento-sub-titulo{
+    text-align: center;
+    font-weight: 500;
+    font-size: large;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.regulamento-sub-titulo h3{
+    font-size: large;
+    font-weight: 700;
+}
+.regulamento-sub-titulo h4{
+    font-size: medium;
+    font-weight: 800;
+}
+.regulamento-txt{
+    text-align: justify;
+}
+
+@media (max-width:650px){
+    .regulamento-area{padding-left: 20px; padding-right: 20px; }
+}
