@@ -8,7 +8,7 @@ function Home(){
                 <Image src="/img/logo.png" width={100} height={100} className="logo-frigolima"/>
             </div>
             <div className="area-links">
-                <a href="/regulamento" className="link-arvore">Regulamento Natal Premiado</a>
+                <a href="https://www.dropbox.com/s/x74l1vn863xxk7d/Frigolima%20-%20Cartaz%20Corrida%20maluca.pdf?dl=0" className="link-arvore">Regulamento Corrida Maluca</a>
                 <a href="https://t.me/frigolima" className="link-arvore">Canal do Telegram</a>
                 <a href="https://chat.whatsapp.com/L799fbwbNnh6HFjrCdEvYK?fbclid=IwAR0ZBu-KfOHA8EzTdR8J1fnDYB65_KII2vSaaV3IcWWMATwcGAxjun5Q5U4" className="link-arvore">Grupo do WhatsApp</a>
                 <a href="https://forms.gle/cZCiLpQe5iCVgM8F9" className="link-arvore">Faça seu Cartão Frigolima</a>
